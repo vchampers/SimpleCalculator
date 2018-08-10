@@ -1,0 +1,2 @@
+# SimpleCalculator
+用JavaScript实现的一个简易计算器
